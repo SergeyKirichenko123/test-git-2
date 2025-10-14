@@ -16,3 +16,8 @@ master
 develop
 feature/main-page
 feature/about-company
+
+git reset, git diff и git reset --hard: 
+- reset - убирает файл из stage
+- diff - показывает все строки, которые мы изменяли или удаляли(можно указать название файла и увидеть конерктные изменения по файлу)
+- git reset --hard - возвращает все изменения, которые были вначале последнего комита
